@@ -7,6 +7,14 @@
     "start": "nuxt start"
   },
   "dependencies": {
+    "@nuxtjs/pwa": "3.3.5",
     "nuxt": "2.15.8"
+  },
+  "engines": {
+    "node": ">=16.15.0 <17",
+    "npm": ">=8 <9"
+  },
+  "npm": {
+    "publish": false
   }
 }
